@@ -30,7 +30,7 @@
 1.  **Клонируйте репозиторий**:
 
     ```bash
-    git clone [https://github.com/lostofreference/crypto-bot-on-go.git](https://github.com/lostofreference/crypto-bot-on-go.git)
+    git clone https://github.com/lostofreference/crypto-bot-on-go.git
     cd crypto-bot-on-go
     ```
 
