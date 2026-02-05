@@ -81,7 +81,7 @@ func Fetchprice(symbol string) (float64, error) {
 
 func main() {
 	pref := telebot.Settings{
-		Token:  "8400142817:AAHqNpoz6o8EqYJ2FgK06fOZ5ZDzUZAomDk",
+		Token:  "YOUR-BOT-TOKEN",
 		Poller: &telebot.LongPoller{Timeout: 10 * time.Second},
 	}
 
